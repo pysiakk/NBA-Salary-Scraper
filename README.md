@@ -7,7 +7,7 @@ This repo contains a script for scraping NBA players' salaries from ESPN page.
 salary_scrape(year)
 ```
 
-## Ouput
+## Output
 
 `Pandas.DataFrame` containing a position in the salary ranking, the name of a player, the team of a player and his salary in dollars.
 
