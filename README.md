@@ -3,9 +3,9 @@ This repo contains a script for scraping NBA players' salaries from ESPN page.
 
 ## Usage
 
-`
+```python
 salary_scrape(year)
-`
+```
 
 ## Ouput
 
