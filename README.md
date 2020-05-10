@@ -14,16 +14,16 @@ salary_scrape(year)
 
 ## Examples
 
-`
-sal = salary_scrape(2020)
+```python
+l = salary_scrape(2020)
 print(sal.iloc[0])
-`
+```
 
-`
+```python
 RK                            1
 NAME              Stephen Curry
 TEAM      Golden State Warriors
 SALARY                 40231758
 Name: 0, dtype: object
-`
+```
 
