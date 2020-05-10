@@ -2,6 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
+import re
 
 def salary_scrape(year):
     src = "http://www.espn.com/nba/salaries/_/year/" + str(year) + "/page/"
